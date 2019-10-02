@@ -1,3 +1,5 @@
+![GoBarber](docs/cover.jpeg?raw=true 'GoBarber')
+
 # GoBarber
 
 ReactJS project developed at the GoStack bootcamp. Web version of the application for barber shop appointments.
