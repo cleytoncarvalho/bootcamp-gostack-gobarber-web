@@ -1,4 +1,4 @@
-![GoBarber](docs/cover.jpeg?raw=true 'GoBarber')
+![GoBarber](docs/cover.jpg?raw=true 'GoBarber')
 
 # GoBarber
 
