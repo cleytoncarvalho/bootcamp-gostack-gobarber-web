@@ -1,10 +1,12 @@
 ![GoBarber](docs/cover.jpg?raw=true 'GoBarber')
 
-# GoBarber
+# Learning - ReactJS
 
-ReactJS project developed at the GoStack bootcamp. Web version of the application for barber shop appointments.
+:us: Project part of the bootcamp Gostack from Rocketseat. Web version of the application for barber shop appointments.
 
-Techs:
+:brazil: Projeto parte do bootcamp Gostack da Rocketseat. Versão web da aplicação para agendar serviços de barbearia.
+
+:toolbox: Used in this project:
 
 - ReactJS
 - Redux
